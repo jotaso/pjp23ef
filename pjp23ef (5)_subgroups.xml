@@ -1,0 +1,1539 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Students_Timetable>
+  <Subgroup name="6º Ano A Grupo Automático Subgrupo Automático">
+   <Day name="Segunda-feira">
+    <Hour name="07:10 - 07:55">
+     <Teacher name="Juliane"></Teacher><Subject name="Ed. Fisica"></Subject>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Teacher name="Valentina"></Teacher><Subject name="L. Portuguesa"></Subject>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Teacher name="Valentina"></Teacher><Subject name="L. Portuguesa"></Subject>
+    </Hour>
+    <Hour name="09:25 - 10:10">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="10:10 - 10:25">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     <Teacher name="Silvia"></Teacher><Subject name="História"></Subject>
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Teacher name="André"></Teacher><Subject name="Matemática"></Subject>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Teacher name="Décio"></Teacher><Subject name="Inglês"></Subject>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     <Teacher name="J. Marcos"></Teacher><Subject name="Ciências"></Subject>
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="07:10 - 07:55">
+     <Teacher name="Silvia"></Teacher><Subject name="História"></Subject>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Teacher name="Micheli"></Teacher><Subject name="Geografia"></Subject>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Teacher name="Juliane"></Teacher><Subject name="P. de Vida"></Subject>
+    </Hour>
+    <Hour name="09:25 - 10:10">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="10:10 - 10:25">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     <Teacher name="André"></Teacher><Subject name="Matemática"></Subject>
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Teacher name="Valentina"></Teacher><Subject name="L. Portuguesa"></Subject>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Teacher name="Valentina"></Teacher><Subject name="L. Portuguesa"></Subject>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     <Teacher name="Claudete"></Teacher><Subject name="Orientação"></Subject>
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     <Teacher name="Claudete"></Teacher><Subject name="Orientação"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="07:10 - 07:55">
+     <Teacher name="Micheli"></Teacher><Subject name="Geografia"></Subject>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Teacher name="Décio"></Teacher><Subject name="Inglês"></Subject>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Teacher name="Patricia M."></Teacher><Subject name="Arte"></Subject>
+    </Hour>
+    <Hour name="09:25 - 10:10">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="10:10 - 10:25">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     <Teacher name="Silvia"></Teacher><Subject name="História"></Subject>
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Teacher name="André"></Teacher><Subject name="Matemática"></Subject>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Teacher name="Juliane"></Teacher><Subject name="Ed. Fisica"></Subject>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     <Teacher name="Francielli"></Teacher><Subject name="Tecnologias"></Subject>
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     <Teacher name="J. Marcos"></Teacher><Subject name="Ciências"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="07:10 - 07:55">
+     <Teacher name="Valentina"></Teacher><Subject name="L. Portuguesa"></Subject>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Teacher name="Juliane"></Teacher><Subject name="P. de Vida"></Subject>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Teacher name="Patricia M."></Teacher><Subject name="Arte"></Subject>
+    </Hour>
+    <Hour name="09:25 - 10:10">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="10:10 - 10:25">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     <Teacher name="André"></Teacher><Subject name="Matemática"></Subject>
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Teacher name="André"></Teacher><Subject name="Matemática"></Subject>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Teacher name="Micheli"></Teacher><Subject name="Geografia"></Subject>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     <Teacher name="J. Marcos"></Teacher><Subject name="Ciências"></Subject>
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     <Teacher name="J. Marcos"></Teacher><Subject name="Ciências"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="07:10 - 07:55">
+     
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Teacher name="Micheli"></Teacher><Subject name="Geografia"></Subject>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Teacher name="Silvia"></Teacher><Subject name="História"></Subject>
+    </Hour>
+    <Hour name="09:25 - 10:10">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="10:10 - 10:25">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     <Teacher name="Silvia"></Teacher><Subject name="Protagonismo"></Subject>
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Teacher name="André"></Teacher><Subject name="Matemática"></Subject>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Teacher name="Valentina"></Teacher><Subject name="L. Portuguesa"></Subject>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     <Teacher name="Juliane"></Teacher><Teacher name="Marcos"></Teacher><Subject name="Eletivas"></Subject>
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     <Teacher name="Juliane"></Teacher><Teacher name="Marcos"></Teacher><Subject name="Eletivas"></Subject>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="6º Ano B Grupo Automático Subgrupo Automático">
+   <Day name="Segunda-feira">
+    <Hour name="07:10 - 07:55">
+     <Teacher name="Valentina"></Teacher><Subject name="L. Portuguesa"></Subject>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Teacher name="Silvia"></Teacher><Subject name="História"></Subject>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Teacher name="Juliane"></Teacher><Subject name="Ed. Fisica"></Subject>
+    </Hour>
+    <Hour name="09:25 - 10:10">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="10:10 - 10:25">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     <Teacher name="Patricia M."></Teacher><Subject name="Arte"></Subject>
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Teacher name="Silvia"></Teacher><Subject name="Protagonismo"></Subject>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Teacher name="Micheli"></Teacher><Subject name="Geografia"></Subject>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     <Teacher name="André"></Teacher><Subject name="Matemática"></Subject>
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="07:10 - 07:55">
+     <Teacher name="Juliane"></Teacher><Subject name="Ed. Fisica"></Subject>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Teacher name="Décio"></Teacher><Subject name="Inglês"></Subject>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Teacher name="Micheli"></Teacher><Subject name="Geografia"></Subject>
+    </Hour>
+    <Hour name="09:25 - 10:10">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="10:10 - 10:25">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     <Teacher name="Valentina"></Teacher><Subject name="L. Portuguesa"></Subject>
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Teacher name="André"></Teacher><Subject name="Matemática"></Subject>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Teacher name="Silvia"></Teacher><Subject name="História"></Subject>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     <Teacher name="Claudinete"></Teacher><Subject name="Orientação"></Subject>
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     <Teacher name="Claudinete"></Teacher><Subject name="Orientação"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="07:10 - 07:55">
+     <Teacher name="ANGÉLICA"></Teacher><Subject name="Ciências"></Subject>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Teacher name="ANGÉLICA"></Teacher><Subject name="Ciências"></Subject>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Teacher name="André"></Teacher><Subject name="Matemática"></Subject>
+    </Hour>
+    <Hour name="09:25 - 10:10">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="10:10 - 10:25">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     <Teacher name="Valentina"></Teacher><Subject name="L. Portuguesa"></Subject>
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Teacher name="Silvia"></Teacher><Subject name="História"></Subject>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Teacher name="Décio"></Teacher><Subject name="Inglês"></Subject>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     <Teacher name="Micheli"></Teacher><Subject name="Geografia"></Subject>
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     <Teacher name="Francielli"></Teacher><Subject name="Tecnologias"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="07:10 - 07:55">
+     <Teacher name="Silvia"></Teacher><Subject name="História"></Subject>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Teacher name="André"></Teacher><Subject name="Matemática"></Subject>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Teacher name="André"></Teacher><Subject name="Matemática"></Subject>
+    </Hour>
+    <Hour name="09:25 - 10:10">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="10:10 - 10:25">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     <Teacher name="Valentina"></Teacher><Subject name="L. Portuguesa"></Subject>
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Teacher name="Valentina"></Teacher><Subject name="L. Portuguesa"></Subject>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Teacher name="Juliane"></Teacher><Subject name="P. de Vida"></Subject>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     <Teacher name="Micheli"></Teacher><Subject name="Geografia"></Subject>
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     <Teacher name="ANGÉLICA"></Teacher><Subject name="Ciências"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="07:10 - 07:55">
+     
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Teacher name="Juliane"></Teacher><Subject name="P. de Vida"></Subject>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Teacher name="André"></Teacher><Subject name="Matemática"></Subject>
+    </Hour>
+    <Hour name="09:25 - 10:10">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="10:10 - 10:25">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     <Teacher name="Valentina"></Teacher><Subject name="L. Portuguesa"></Subject>
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Teacher name="Patricia M."></Teacher><Subject name="Arte"></Subject>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Teacher name="ANGÉLICA"></Teacher><Subject name="Ciências"></Subject>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     <Teacher name="Marilena"></Teacher><Teacher name="Décio"></Teacher><Subject name="Eletivas"></Subject>
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     <Teacher name="Marilena"></Teacher><Teacher name="Décio"></Teacher><Subject name="Eletivas"></Subject>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="7º Ano A Grupo Automático Subgrupo Automático">
+   <Day name="Segunda-feira">
+    <Hour name="07:10 - 07:55">
+     <Teacher name="Alessandra"></Teacher><Subject name="Matemática"></Subject>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Teacher name="Juliane"></Teacher><Subject name="P. de Vida"></Subject>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Teacher name="Patricia M."></Teacher><Subject name="Arte"></Subject>
+    </Hour>
+    <Hour name="09:25 - 10:10">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="10:10 - 10:25">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     <Teacher name="Valentina"></Teacher><Subject name="L. Portuguesa"></Subject>
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Teacher name="Valentina"></Teacher><Subject name="Inglês"></Subject>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Teacher name="Silvia"></Teacher><Subject name="História"></Subject>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     <Teacher name="Patricia B."></Teacher><Subject name="Geografia"></Subject>
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="07:10 - 07:55">
+     <Teacher name="Regina"></Teacher><Subject name="Ciências"></Subject>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Teacher name="Valentina"></Teacher><Subject name="L. Portuguesa"></Subject>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Teacher name="Silvia"></Teacher><Subject name="História"></Subject>
+    </Hour>
+    <Hour name="09:25 - 10:10">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="10:10 - 10:25">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     <Teacher name="Alessandra"></Teacher><Subject name="Matemática"></Subject>
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Teacher name="Patricia M."></Teacher><Subject name="Arte"></Subject>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Teacher name="Juliane"></Teacher><Subject name="Ed. Fisica"></Subject>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     <Teacher name="Francielli"></Teacher><Subject name="Tecnologias"></Subject>
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     <Teacher name="Patricia B."></Teacher><Subject name="Geografia"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="07:10 - 07:55">
+     <Teacher name="Juliane"></Teacher><Subject name="P. de Vida"></Subject>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Teacher name="Juliane"></Teacher><Subject name="Ed. Fisica"></Subject>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Teacher name="Regina"></Teacher><Subject name="Ciências"></Subject>
+    </Hour>
+    <Hour name="09:25 - 10:10">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="10:10 - 10:25">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     <Teacher name="Alessandra"></Teacher><Subject name="Matemática"></Subject>
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Teacher name="Valentina"></Teacher><Subject name="L. Portuguesa"></Subject>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Teacher name="Valentina"></Teacher><Subject name="L. Portuguesa"></Subject>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     <Teacher name="Patricia B."></Teacher><Subject name="Geografia"></Subject>
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     <Teacher name="Patricia B."></Teacher><Subject name="Geografia"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="07:10 - 07:55">
+     <Teacher name="Patricia M."></Teacher><Subject name="Protagonismo"></Subject>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Teacher name="Alessandra"></Teacher><Subject name="Matemática"></Subject>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Teacher name="Alessandra"></Teacher><Subject name="Matemática"></Subject>
+    </Hour>
+    <Hour name="09:25 - 10:10">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="10:10 - 10:25">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     <Teacher name="Regina"></Teacher><Subject name="Ciências"></Subject>
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Teacher name="Silvia"></Teacher><Subject name="História"></Subject>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Teacher name="Valentina"></Teacher><Subject name="L. Portuguesa"></Subject>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     <Teacher name="Paulo"></Teacher><Subject name="Orientação"></Subject>
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     <Teacher name="Paulo"></Teacher><Subject name="Orientação"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="07:10 - 07:55">
+     
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Teacher name="Valentina"></Teacher><Subject name="L. Portuguesa"></Subject>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Teacher name="Regina"></Teacher><Subject name="Ciências"></Subject>
+    </Hour>
+    <Hour name="09:25 - 10:10">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="10:10 - 10:25">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     <Teacher name="Alessandra"></Teacher><Subject name="Matemática"></Subject>
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Teacher name="Valentina"></Teacher><Subject name="Inglês"></Subject>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Teacher name="Silvia"></Teacher><Subject name="História"></Subject>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     <Teacher name="Giliard"></Teacher><Teacher name="Antonio"></Teacher><Subject name="Eletivas"></Subject>
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     <Teacher name="Giliard"></Teacher><Teacher name="Antonio"></Teacher><Subject name="Eletivas"></Subject>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="7º Ano B Grupo Automático Subgrupo Automático">
+   <Day name="Segunda-feira">
+    <Hour name="07:10 - 07:55">
+     <Teacher name="Micheli"></Teacher><Subject name="Geografia"></Subject>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Teacher name="Claudinete"></Teacher><Subject name="L. Portuguesa"></Subject>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Teacher name="Micheli"></Teacher><Subject name="P. de Vida"></Subject>
+    </Hour>
+    <Hour name="09:25 - 10:10">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="10:10 - 10:25">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     <Teacher name="Claudete"></Teacher><Subject name="Matemática"></Subject>
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Teacher name="Patricia M."></Teacher><Subject name="Protagonismo"></Subject>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Teacher name="Regina"></Teacher><Subject name="Ciências"></Subject>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     <Teacher name="Francielli"></Teacher><Subject name="Tecnologias"></Subject>
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="07:10 - 07:55">
+     <Teacher name="Micheli"></Teacher><Subject name="Geografia"></Subject>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Teacher name="Claudete"></Teacher><Subject name="Matemática"></Subject>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Teacher name="Claudete"></Teacher><Subject name="Matemática"></Subject>
+    </Hour>
+    <Hour name="09:25 - 10:10">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="10:10 - 10:25">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     <Teacher name="Regina"></Teacher><Subject name="Ciências"></Subject>
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Teacher name="Silvia"></Teacher><Subject name="História"></Subject>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Teacher name="Claudinete"></Teacher><Subject name="L. Portuguesa"></Subject>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     <Teacher name="Décio"></Teacher><Subject name="Inglês"></Subject>
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     <Teacher name="Renato"></Teacher><Subject name="Ed. Fisica"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="07:10 - 07:55">
+     <Teacher name="Décio"></Teacher><Subject name="Inglês"></Subject>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Teacher name="Micheli"></Teacher><Subject name="Geografia"></Subject>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Teacher name="Silvia"></Teacher><Subject name="História"></Subject>
+    </Hour>
+    <Hour name="09:25 - 10:10">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="10:10 - 10:25">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     <Teacher name="Patricia M."></Teacher><Subject name="Arte"></Subject>
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Teacher name="Regina"></Teacher><Subject name="Ciências"></Subject>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Teacher name="Claudinete"></Teacher><Subject name="L. Portuguesa"></Subject>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     <Teacher name="Claudete"></Teacher><Subject name="Matemática"></Subject>
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     <Teacher name="Renato"></Teacher><Subject name="Ed. Fisica"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="07:10 - 07:55">
+     <Teacher name="Micheli"></Teacher><Subject name="Geografia"></Subject>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Teacher name="Claudinete"></Teacher><Subject name="L. Portuguesa"></Subject>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Teacher name="Claudinete"></Teacher><Subject name="L. Portuguesa"></Subject>
+    </Hour>
+    <Hour name="09:25 - 10:10">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="10:10 - 10:25">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     <Teacher name="Silvia"></Teacher><Subject name="História"></Subject>
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Teacher name="Claudete"></Teacher><Subject name="Matemática"></Subject>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Teacher name="Patricia M."></Teacher><Subject name="Arte"></Subject>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     <Teacher name="Marilena"></Teacher><Subject name="Orientação"></Subject>
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     <Teacher name="Marilena"></Teacher><Subject name="Orientação"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="07:10 - 07:55">
+     
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Teacher name="Silvia"></Teacher><Subject name="História"></Subject>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Teacher name="Claudinete"></Teacher><Subject name="L. Portuguesa"></Subject>
+    </Hour>
+    <Hour name="09:25 - 10:10">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="10:10 - 10:25">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     <Teacher name="Regina"></Teacher><Subject name="Ciências"></Subject>
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Teacher name="Claudete"></Teacher><Subject name="Matemática"></Subject>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Teacher name="Micheli"></Teacher><Subject name="P. de Vida"></Subject>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     <Teacher name="Micheli"></Teacher><Teacher name="Patricia B."></Teacher><Subject name="Eletivas"></Subject>
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     <Teacher name="Micheli"></Teacher><Teacher name="Patricia B."></Teacher><Subject name="Eletivas"></Subject>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="8º Ano A Grupo Automático Subgrupo Automático">
+   <Day name="Segunda-feira">
+    <Hour name="07:10 - 07:55">
+     <Teacher name="Patricia M."></Teacher><Subject name="Protagonismo"></Subject>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Teacher name="Patricia M."></Teacher><Subject name="Arte"></Subject>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Teacher name="Marcos"></Teacher><Subject name="Geografia"></Subject>
+    </Hour>
+    <Hour name="09:25 - 10:10">
+     <Teacher name="Regina"></Teacher><Subject name="Ciências"></Subject>
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="10:10 - 10:25">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Teacher name="Claudete"></Teacher><Subject name="Matemática"></Subject>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Teacher name="Claudinete"></Teacher><Subject name="L. Portuguesa"></Subject>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     <Teacher name="Claudinete"></Teacher><Subject name="L. Portuguesa"></Subject>
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="07:10 - 07:55">
+     <Teacher name="Giliard"></Teacher><Subject name="História"></Subject>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Teacher name="Regina"></Teacher><Subject name="Ciências"></Subject>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Teacher name="Valentina"></Teacher><Subject name="Inglês"></Subject>
+    </Hour>
+    <Hour name="09:25 - 10:10">
+     <Teacher name="Giliard"></Teacher><Subject name="P. de Vida"></Subject>
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="10:10 - 10:25">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Teacher name="Claudete"></Teacher><Subject name="Matemática"></Subject>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Teacher name="Marcos"></Teacher><Subject name="Geografia"></Subject>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     <Teacher name="Claudinete"></Teacher><Subject name="L. Portuguesa"></Subject>
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     <Teacher name="Verginia"></Teacher><Teacher name="Alessandra"></Teacher><Subject name="Práticas Exp."></Subject>
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="07:10 - 07:55">
+     <Teacher name="Patricia M."></Teacher><Teacher name="André"></Teacher><Subject name="Eletivas"></Subject>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Teacher name="Patricia M."></Teacher><Teacher name="André"></Teacher><Subject name="Eletivas"></Subject>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Teacher name="Juliane"></Teacher><Subject name="Ed. Fisica"></Subject>
+    </Hour>
+    <Hour name="09:25 - 10:10">
+     <Teacher name="Giliard"></Teacher><Subject name="História"></Subject>
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="10:10 - 10:25">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Teacher name="Claudete"></Teacher><Subject name="Matemática"></Subject>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Teacher name="Marcos"></Teacher><Subject name="Geografia"></Subject>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     <Teacher name="Claudinete"></Teacher><Subject name="L. Portuguesa"></Subject>
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     <Teacher name="Regina"></Teacher><Subject name="Ciências"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="07:10 - 07:55">
+     <Teacher name="Giliard"></Teacher><Subject name="História"></Subject>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Teacher name="Patricia M."></Teacher><Subject name="Arte"></Subject>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Teacher name="Claudete"></Teacher><Subject name="Matemática"></Subject>
+    </Hour>
+    <Hour name="09:25 - 10:10">
+     <Teacher name="Claudinete"></Teacher><Subject name="L. Portuguesa"></Subject>
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="10:10 - 10:25">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Teacher name="Regina"></Teacher><Subject name="Ciências"></Subject>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Teacher name="Silvia"></Teacher><Subject name="Tecnologias"></Subject>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     <Teacher name="Marcos"></Teacher><Subject name="Geografia"></Subject>
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     <Teacher name="Valentina"></Teacher><Subject name="Inglês"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="07:10 - 07:55">
+     
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Teacher name="Claudete"></Teacher><Subject name="Matemática"></Subject>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Teacher name="Claudete"></Teacher><Subject name="Matemática"></Subject>
+    </Hour>
+    <Hour name="09:25 - 10:10">
+     <Teacher name="Giliard"></Teacher><Subject name="P. de Vida"></Subject>
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="10:10 - 10:25">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Teacher name="Giliard"></Teacher><Subject name="História"></Subject>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Teacher name="Juliane"></Teacher><Subject name="Ed. Fisica"></Subject>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     <Teacher name="Claudinete"></Teacher><Subject name="L. Portuguesa"></Subject>
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     <Teacher name="Claudete"></Teacher><Subject name="Orientação"></Subject>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="8º Ano B Grupo Automático Subgrupo Automático">
+   <Day name="Segunda-feira">
+    <Hour name="07:10 - 07:55">
+     <Teacher name="Claudete"></Teacher><Subject name="Matemática"></Subject>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Teacher name="Claudete"></Teacher><Subject name="Matemática"></Subject>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Teacher name="Regina"></Teacher><Subject name="Ciências"></Subject>
+    </Hour>
+    <Hour name="09:25 - 10:10">
+     <Teacher name="Marilena"></Teacher><Subject name="L. Portuguesa"></Subject>
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="10:10 - 10:25">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Teacher name="Giliard"></Teacher><Subject name="História"></Subject>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Teacher name="Marcos"></Teacher><Subject name="Geografia"></Subject>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     <Teacher name="Marcos"></Teacher><Subject name="P. de Vida"></Subject>
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="07:10 - 07:55">
+     <Teacher name="Claudete"></Teacher><Subject name="Matemática"></Subject>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Teacher name="Marilena"></Teacher><Subject name="L. Portuguesa"></Subject>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Teacher name="Marilena"></Teacher><Subject name="L. Portuguesa"></Subject>
+    </Hour>
+    <Hour name="09:25 - 10:10">
+     <Teacher name="Marcos"></Teacher><Subject name="Geografia"></Subject>
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="10:10 - 10:25">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Teacher name="Regina"></Teacher><Subject name="Ciências"></Subject>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Teacher name="Patricia M."></Teacher><Subject name="Arte"></Subject>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     <Teacher name="Décio"></Teacher><Subject name="Inglês"></Subject>
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     <Teacher name="Juliane"></Teacher><Subject name="Ed. Fisica"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="07:10 - 07:55">
+     <Teacher name="Regina"></Teacher><Teacher name="Alessandra"></Teacher><Subject name="Eletivas"></Subject>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Teacher name="Regina"></Teacher><Teacher name="Alessandra"></Teacher><Subject name="Eletivas"></Subject>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Teacher name="Claudete"></Teacher><Subject name="Matemática"></Subject>
+    </Hour>
+    <Hour name="09:25 - 10:10">
+     <Teacher name="Marilena"></Teacher><Subject name="L. Portuguesa"></Subject>
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="10:10 - 10:25">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Teacher name="Giliard"></Teacher><Subject name="História"></Subject>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Teacher name="Patricia M."></Teacher><Subject name="Arte"></Subject>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     <Teacher name="Marcos"></Teacher><Subject name="Geografia"></Subject>
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     <Teacher name="Verginia"></Teacher><Teacher name="Alessandra"></Teacher><Subject name="Práticas Exp."></Subject>
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="07:10 - 07:55">
+     <Teacher name="Marilena"></Teacher><Subject name="L. Portuguesa"></Subject>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Teacher name="Giliard"></Teacher><Subject name="História"></Subject>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Teacher name="Regina"></Teacher><Subject name="Ciências"></Subject>
+    </Hour>
+    <Hour name="09:25 - 10:10">
+     <Teacher name="Claudete"></Teacher><Subject name="Matemática"></Subject>
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="10:10 - 10:25">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Teacher name="Patricia M."></Teacher><Subject name="Protagonismo"></Subject>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Teacher name="Marcos"></Teacher><Subject name="P. de Vida"></Subject>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     <Teacher name="Décio"></Teacher><Subject name="Inglês"></Subject>
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     <Teacher name="Juliane"></Teacher><Subject name="Ed. Fisica"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="07:10 - 07:55">
+     
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Teacher name="Marilena"></Teacher><Subject name="L. Portuguesa"></Subject>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Teacher name="Giliard"></Teacher><Subject name="História"></Subject>
+    </Hour>
+    <Hour name="09:25 - 10:10">
+     <Teacher name="Claudete"></Teacher><Subject name="Matemática"></Subject>
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="10:10 - 10:25">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Teacher name="Silvia"></Teacher><Subject name="Tecnologias"></Subject>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Teacher name="Regina"></Teacher><Subject name="Ciências"></Subject>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     <Teacher name="Marcos"></Teacher><Subject name="Geografia"></Subject>
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     <Teacher name="Claudinete"></Teacher><Subject name="Orientação"></Subject>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="9º Ano A Grupo Automático Subgrupo Automático">
+   <Day name="Segunda-feira">
+    <Hour name="07:10 - 07:55">
+     <Teacher name="Giliard"></Teacher><Subject name="História"></Subject>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Teacher name="Regina"></Teacher><Subject name="Ciências"></Subject>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Teacher name="Claudete"></Teacher><Subject name="Orientação"></Subject>
+    </Hour>
+    <Hour name="09:25 - 10:10">
+     <Teacher name="Alessandra"></Teacher><Subject name="Matemática"></Subject>
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="10:10 - 10:25">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Teacher name="Marilena"></Teacher><Subject name="L. Portuguesa"></Subject>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Teacher name="Patricia M."></Teacher><Subject name="Protagonismo"></Subject>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     <Teacher name="Micheli"></Teacher><Subject name="Geografia"></Subject>
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="07:10 - 07:55">
+     <Teacher name="Alessandra"></Teacher><Subject name="Matemática"></Subject>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Teacher name="Alessandra"></Teacher><Subject name="Matemática"></Subject>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Teacher name="Regina"></Teacher><Subject name="Ciências"></Subject>
+    </Hour>
+    <Hour name="09:25 - 10:10">
+     <Teacher name="Claudinete"></Teacher><Subject name="Inglês"></Subject>
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="10:10 - 10:25">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Teacher name="Marilena"></Teacher><Subject name="L. Portuguesa"></Subject>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Teacher name="Micheli"></Teacher><Subject name="Geografia"></Subject>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     <Teacher name="Marcos"></Teacher><Subject name="P. de Vida"></Subject>
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     <Teacher name="Paulo"></Teacher><Subject name="Práticas Exp."></Subject>
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="07:10 - 07:55">
+     <Teacher name="Silvia"></Teacher><Teacher name="Claudete"></Teacher><Subject name="Eletivas"></Subject>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Teacher name="Silvia"></Teacher><Teacher name="Claudete"></Teacher><Subject name="Eletivas"></Subject>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Teacher name="Marilena"></Teacher><Subject name="L. Portuguesa"></Subject>
+    </Hour>
+    <Hour name="09:25 - 10:10">
+     <Teacher name="Alessandra"></Teacher><Subject name="Matemática"></Subject>
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="10:10 - 10:25">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Teacher name="Patricia M."></Teacher><Subject name="Arte"></Subject>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Teacher name="Silvia"></Teacher><Subject name="Tecnologias"></Subject>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     <Teacher name="Micheli"></Teacher><Subject name="Geografia"></Subject>
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     <Teacher name="Giliard"></Teacher><Subject name="História"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="07:10 - 07:55">
+     <Teacher name="Juliane"></Teacher><Subject name="Ed. Fisica"></Subject>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Teacher name="Marilena"></Teacher><Subject name="L. Portuguesa"></Subject>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Teacher name="Marilena"></Teacher><Subject name="L. Portuguesa"></Subject>
+    </Hour>
+    <Hour name="09:25 - 10:10">
+     <Teacher name="Alessandra"></Teacher><Subject name="Matemática"></Subject>
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="10:10 - 10:25">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Teacher name="Giliard"></Teacher><Subject name="História"></Subject>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Teacher name="Regina"></Teacher><Subject name="Ciências"></Subject>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     <Teacher name="Claudinete"></Teacher><Subject name="Inglês"></Subject>
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     <Teacher name="Patricia M."></Teacher><Subject name="Arte"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="07:10 - 07:55">
+     
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Teacher name="Giliard"></Teacher><Subject name="História"></Subject>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Teacher name="Juliane"></Teacher><Subject name="Ed. Fisica"></Subject>
+    </Hour>
+    <Hour name="09:25 - 10:10">
+     <Teacher name="Micheli"></Teacher><Subject name="Geografia"></Subject>
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="10:10 - 10:25">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Teacher name="Marilena"></Teacher><Subject name="L. Portuguesa"></Subject>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Teacher name="Marcos"></Teacher><Subject name="P. de Vida"></Subject>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     <Teacher name="Alessandra"></Teacher><Subject name="Matemática"></Subject>
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     <Teacher name="Regina"></Teacher><Subject name="Ciências"></Subject>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="9º Ano B Grupo Automático Subgrupo Automático">
+   <Day name="Segunda-feira">
+    <Hour name="07:10 - 07:55">
+     <Teacher name="Marilena"></Teacher><Subject name="L. Portuguesa"></Subject>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Teacher name="Marilena"></Teacher><Subject name="L. Portuguesa"></Subject>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Teacher name="Claudinete"></Teacher><Subject name="Orientação"></Subject>
+    </Hour>
+    <Hour name="09:25 - 10:10">
+     <Teacher name="Giliard"></Teacher><Subject name="História"></Subject>
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="10:10 - 10:25">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Teacher name="Regina"></Teacher><Subject name="Ciências"></Subject>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Teacher name="Juliane"></Teacher><Subject name="Ed. Fisica"></Subject>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     <Teacher name="Alessandra"></Teacher><Subject name="Matemática"></Subject>
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="07:10 - 07:55">
+     <Teacher name="Marilena"></Teacher><Subject name="L. Portuguesa"></Subject>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Teacher name="Patricia M."></Teacher><Subject name="Arte"></Subject>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Teacher name="Alessandra"></Teacher><Subject name="Matemática"></Subject>
+    </Hour>
+    <Hour name="09:25 - 10:10">
+     <Teacher name="Alessandra"></Teacher><Subject name="Matemática"></Subject>
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="10:10 - 10:25">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Teacher name="Giliard"></Teacher><Subject name="História"></Subject>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Teacher name="Regina"></Teacher><Subject name="Ciências"></Subject>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     <Teacher name="Micheli"></Teacher><Subject name="Geografia"></Subject>
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     <Teacher name="Francielli"></Teacher><Subject name="P. de Vida"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="07:10 - 07:55">
+     <Teacher name="Valentina"></Teacher><Teacher name="Claudinete"></Teacher><Subject name="Eletivas"></Subject>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Teacher name="Valentina"></Teacher><Teacher name="Claudinete"></Teacher><Subject name="Eletivas"></Subject>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Teacher name="Giliard"></Teacher><Subject name="História"></Subject>
+    </Hour>
+    <Hour name="09:25 - 10:10">
+     <Teacher name="Claudinete"></Teacher><Subject name="Inglês"></Subject>
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="10:10 - 10:25">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Teacher name="Marilena"></Teacher><Subject name="L. Portuguesa"></Subject>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Teacher name="Regina"></Teacher><Subject name="Ciências"></Subject>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     <Teacher name="Alessandra"></Teacher><Subject name="Matemática"></Subject>
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     <Teacher name="Micheli"></Teacher><Subject name="Geografia"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="07:10 - 07:55">
+     <Teacher name="Alessandra"></Teacher><Subject name="Matemática"></Subject>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Teacher name="Silvia"></Teacher><Subject name="Tecnologias"></Subject>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Teacher name="Juliane"></Teacher><Subject name="Ed. Fisica"></Subject>
+    </Hour>
+    <Hour name="09:25 - 10:10">
+     <Teacher name="Giliard"></Teacher><Subject name="História"></Subject>
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="10:10 - 10:25">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Teacher name="Marilena"></Teacher><Subject name="L. Portuguesa"></Subject>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Teacher name="Claudinete"></Teacher><Subject name="Inglês"></Subject>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     <Teacher name="Micheli"></Teacher><Subject name="Geografia"></Subject>
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     <Teacher name="Francielli"></Teacher><Subject name="P. de Vida"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="07:10 - 07:55">
+     
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Teacher name="Alessandra"></Teacher><Subject name="Matemática"></Subject>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Teacher name="Marilena"></Teacher><Subject name="L. Portuguesa"></Subject>
+    </Hour>
+    <Hour name="09:25 - 10:10">
+     <Teacher name="Patricia M."></Teacher><Subject name="Protagonismo"></Subject>
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="10:10 - 10:25">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Teacher name="Regina"></Teacher><Subject name="Ciências"></Subject>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Teacher name="Patricia M."></Teacher><Subject name="Arte"></Subject>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     <Teacher name="Micheli"></Teacher><Subject name="Geografia"></Subject>
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     <Teacher name="Paulo"></Teacher><Subject name="Práticas Exp."></Subject>
+    </Hour>
+   </Day>
+  </Subgroup>
+</Students_Timetable>
